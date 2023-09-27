@@ -39,3 +39,4 @@ project using the Snyk CLI tool
 This screenshot shows vulnerabilities and potential remediation when such remediation exist
 
 ![Vulnerability detection screenshot](screenshots/vulnerabilities-screen.png "Vulnerability detection")
+
