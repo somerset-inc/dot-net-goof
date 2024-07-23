@@ -5,7 +5,7 @@ on:
   workflow_call:
   push:
     branches:
-      - 'main'
+      - 'master'
 
 jobs:
   open-source-test:
